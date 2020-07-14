@@ -4,6 +4,10 @@ div {
     background-color: red;
     min-height: 50vh;
     border: 2px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 h1 {
     display: inline-block;
@@ -12,6 +16,7 @@ h1 {
     font-size: 20px;
     line-height: 25px;
     font-style: italic;
+    color: white;
 }
 p {
     display: inline-block;
@@ -19,7 +24,7 @@ p {
     text-align: center;
     font-size: 20px;
     line-height: 25px;
-    color: seagreen;
+    color: yellow;
  }
  
 
