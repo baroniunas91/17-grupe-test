@@ -6,3 +6,5 @@
 3) "div" elementą stilizuoti panaudojant bent 3 stiliaus taisykles, kurios įtakoja elementų fizinį dydį ir nurodyti po pavyzdinę reikšmę.
 4) Kiekvieną žingsnį reikia išsaugoti naugojantis GIT.
 5) Projektą sukelti į savo asmeninę repozitoriją.
+
+Published for education purposes: https://baroniunas91.github.io/17-grupe-test/index
